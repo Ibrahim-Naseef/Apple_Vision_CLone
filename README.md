@@ -28,7 +28,7 @@ The Apple Vision Pro website is designed to provide an immersive experience for 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/apple-vision-pro-website.git## Snapshots 📸
+   git clone https://github.com/ibrahim-naseef/apple_vision_clone.git
    ```
 2. Navigate to the project directory:
    ```bash
